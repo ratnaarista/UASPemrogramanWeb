@@ -1,8 +1,8 @@
 `` Nama : Ratna Arista``
-`` NIM  : 311910441
+`` NIM  : 311910441 ``
 `` Kelas  : TI.19.A.2 ``
 
-# UAS PEMROGRAMAN WEB
+# UAS PEMROGRAMAN WEB - Iuran Kas RT
 
 Link Vidio : 
 
